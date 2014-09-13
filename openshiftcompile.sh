@@ -1,0 +1,4 @@
+java -cp SKCraftLauncher.jar com.skcraft.launcher.builder.PackageBuilder --version "1.0" --manifest-dest "dist/manifest.json" --objects-dest "dist/objects" --files "src" --config "modpack.json" --objects-url "http://modpacks-lolnet.rhcloud.com/modpack/objects" --version-file "version.json" --libs-url "http://modpacks-lolnet.rhcloud.com/modpack/libraries"
+cp -r /var/lib/openshift/53cb3a534382ec607600044d/app-root/repo/modpack/Setup/LolnetAdventurePack/dist/objects/ /var/www/modpack/
+cp -r /var/lib/openshift/53cb3a534382ec607600044d/app-root/repo/modpack/Setup/LolnetAdventurePack/dist/manifest.json /var/lib/openshift/53cb3a534382ec607600044d/app-root/repo/modpack/LolnetAdventurePack.json
+rm -r /var/lib/openshift/53cb3a534382ec607600044d/app-root/repo/modpack/Setup/LolnetAdventurePack/dist/
