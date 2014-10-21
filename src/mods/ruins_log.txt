@@ -1,11 +1,11 @@
 
-Loading excluded list from: C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World
+Loading excluded list from: C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World\DIM-37
 No exclusions found for this world.
 
-Loading options from: C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World
+Loading options from: C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World\DIM-37
 tries_per_chunk_normal = 6
 chance_to_spawn_normal = 10.0
 templateInstancesMinDistance = 256.0
 anyRuinsMinDistance = 64.0
-Ruins mod loaded successfully for world C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World, template files: 28
-00, template files: 28
+Ruins mod loaded successfully for world C:\Users\Barny\AppData\Roaming\.minecraft\saves\New World\DIM-37, template files: 28
+8

@@ -1,0 +1,2 @@
+count=1-8
+contents=minecraft:wheat;0;1-10;12,minecraft:reeds;0;1-8;15,minecraft:sugar;0;1-10;12,minecraft:egg;0;1-12;8,minecraft:milk_bucket;0;1-2;3,minecraft:bucket;0;1-3;6,minecraft:pumpkin_seeds;0;1-15;5,minecraft:pumpkin;0;1-2;3,minecraft:melon_seeds;0;1-3;2,minecraft:melon_block;0;1-2;1,minecraft:bread;0;1-3;1,minecraft:apple;0;1-3;3,minecraft:carrot;0;1-3;3
