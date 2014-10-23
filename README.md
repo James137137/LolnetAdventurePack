@@ -4,4 +4,4 @@ LolnetAdventurePack
 Lolnet Adventure Mod Pack
 
 
-Current Version: 1.1.1-SNAPSHOT
+Current Version: 1.2.2
