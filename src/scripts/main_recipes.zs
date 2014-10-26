@@ -50,3 +50,9 @@ recipes.addShaped(<BiomesOPlenty:ancientStaff>,
   [<BiomesOPlenty:ancientStaff:2>, <minecraft:beacon>, <BiomesOPlenty:flowers2:8>],
   [<BiomesOPlenty:ancientStaff:1>, <minecraft:fireworks>, <ExtraUtilities:unstableingot>]]);
   
+recipes.remove(<cheesemod:CheeseKnife>);
+recipes.addShaped(<cheesemod:CheeseKnife>,
+ [[<minecraft:stick>, null, null],
+  [null, <minecraft:iron_ingot>, null],
+  [null, null, <minecraft:iron_ingot>]]);
+  
