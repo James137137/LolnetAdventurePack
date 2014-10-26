@@ -92,7 +92,7 @@ recipes.addShaped(<minecraft:beacon>,
   [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);  
   
   
-furnace.remove(<*>, <minecraft:coal:1>);
+furnace.remove(<minecraft:coal:1>);
   
 # wood nerfing
 # vanilla
