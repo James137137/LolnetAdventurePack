@@ -91,7 +91,7 @@ recipes.addShaped(<minecraft:beacon>,
   [<minecraft:nether_star>, <minecraft:dragon_egg>, <minecraft:nether_star>],
   [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);  
   
-  
+recipes.remove(<minecraft:glowstone>);  
 furnace.remove(<minecraft:coal:1>);
   
 # wood nerfing
