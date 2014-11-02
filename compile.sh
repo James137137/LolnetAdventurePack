@@ -10,5 +10,5 @@ cp -r /var/www/modpack/Setup/LolnetAdventure/dist/manifest.json /var/www/modpack
 rm -r /var/www/modpack/Setup/LolnetAdventure/dist/
 
 
-cp CompletedTemplate.json ../../private/adventurepack.json 
+cp CompletedTemplate.json ../../public/adventurepack.json 
 rm CompletedTemplate.json
