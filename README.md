@@ -12,3 +12,7 @@ The Lolnet Adventure pack is a 1.7 pack for Minecraft that focuses on Magic and 
 | ------------- | ------------- | --- |
 | Lolnet Launcher  | We host our adventure pack on our very own, easy to use Lolnet Launcher | [Download Here](http://wiki.lolnet.co.nz/index.php?title=Lolnet_Launcher_Tutorial) |
 | FTB Launcher  | The Lolnet Adventure Pack is available on the FTB Launcher | Private Pack Code: adventurepack  |
+
+## I found a bug
+
+Bugs can be reported on our [GitHub issues page](https://github.com/LolnetModPack/LolnetAdventurePack/issues)
