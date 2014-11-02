@@ -94,6 +94,7 @@ recipes.addShaped(<minecraft:beacon>,
 recipes.remove(<minecraft:glowstone>);  
 furnace.remove(<minecraft:coal:1>);
 recipes.remove(<JABBA:moverDiamond>);
+recipes.remove(<Natura:natura.stewbowl>);
   
 # wood nerfing
 # vanilla
