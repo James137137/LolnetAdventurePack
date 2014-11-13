@@ -2,10 +2,10 @@
 
 # Welcome to the Lolnet Adventure Pack Github!
 
-To clone this repo: github-windows://openRepo/https://github.com/LolnetModPack/LolnetAdventurePack
+To clone this repo: github-windows://openRepo/http://anderson.lolnet.co.nz/modpack/lolnetadventurepack.git
 To change your old remote please run the below command
 * git remote remove origin
-* git remote add https://github.com/LolnetModPack/LolnetAdventurePack.git
+* git remote add origin http://anderson.lolnet.co.nz/modpack/lolnetadventurepack.git
 
 
 ## What is the Lolnet Adventure Pack?
