@@ -6,6 +6,7 @@ To clone this repo: github-windows://openRepo/http://anderson.lolnet.co.nz/modpa
 To change your old remote please run the below command
 * git remote remove origin
 * git remote add origin http://anderson.lolnet.co.nz/modpack/lolnetadventurepack.git
+* git fetch
 
 
 ## What is the Lolnet Adventure Pack?
