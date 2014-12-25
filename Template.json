@@ -2,10 +2,10 @@
 "minimumVersion": 1, 
 "packages": [
 {
-"name": "Lolnet Adventure Package", 
-"title": "Lolnet Adventure", 
+"name": "Lolnet Adventure dev Package", 
+"title": "Lolnet Adventure Snapshot", 
 "version": "MODPACKVERSION", 
-"location": "https://www.lolnet.co.nz/modpack/LolnetAdventure.json", 
+"location": "https://www.lolnet.co.nz/modpack/LolnetAdventure-dev.json", 
 "priority": 1
 }
 ]
