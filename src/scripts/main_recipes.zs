@@ -40,15 +40,6 @@ recipes.addShaped(<minecraft:blaze_rod>,
   [null, <minecraft:blaze_powder>, null],
   [<meteors:BlockMeteorDecoration>, null, null]]);    
   
-recipes.addShaped(<BiomesOPlenty:ancientStaff>,
- [[<BiomesOPlenty:ancientStaff:3>, <minecraft:fireworks>, <minecraft:quartz_block>],
-  [<BiomesOPlenty:ancientStaff:2>, <minecraft:beacon>, <minecraft:double_plant:4>],
-  [<BiomesOPlenty:ancientStaff:1>, <minecraft:fireworks>, <ExtraUtilities:unstableingot>]]);
-  
-  recipes.addShaped(<BiomesOPlenty:ancientStaff>,
- [[<BiomesOPlenty:ancientStaff:3>, <minecraft:fireworks>, <minecraft:quartz_block>],
-  [<BiomesOPlenty:ancientStaff:2>, <minecraft:beacon>, <BiomesOPlenty:flowers2:8>],
-  [<BiomesOPlenty:ancientStaff:1>, <minecraft:fireworks>, <ExtraUtilities:unstableingot>]]);
   
 recipes.remove(<cheesemod:CheeseKnife>);
 recipes.addShaped(<cheesemod:CheeseKnife>,
