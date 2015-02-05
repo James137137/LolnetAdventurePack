@@ -1,0 +1,1 @@
+recipes.addShapeless(<TConstruct:ToolStationBlock:5> * 1, [<TConstruct:blankPattern>, <ore:chestWood>]);
